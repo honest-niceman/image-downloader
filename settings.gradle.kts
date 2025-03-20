@@ -1,2 +1,1 @@
-rootProject.name = "image-getter"
-
+rootProject.name = "image-downloader"
